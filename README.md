@@ -1,5 +1,7 @@
 # 🍽️ Team Project - 맛집 추천
 
+### [📝 협업 문서](https://www.notion.so/Git-31f17068346a8055afe8dc8ff2633859?source=copy_link)
+
 ## 📌 프로젝트 소개
 
 우리 팀의 맛집 추천 및 팀 소개 프로젝트입니다.

@@ -6,7 +6,6 @@
 
 우리 팀의 맛집 추천 및 팀 소개 프로젝트입니다.
 
----
 
 ## 👥 팀원 소개
 
@@ -15,11 +14,9 @@
 - [서윤혜](docs/members/member-suh.md)
 - [홍유진](docs/members/member-hong.md)
 
----
 
 ## 📍 맛집 추천
 
----
 
 ## 📜 팀 규칙
 
